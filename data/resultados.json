@@ -1,0 +1,434 @@
+[
+  {
+    "serie": "A",
+    "grupo": 1,
+    "numero": 1,
+    "jugadorA": "Antonio Irarrázaval",
+    "jugadorB": "Pipo Ochsenius",
+    "gamesA": 9,
+    "gamesB": 3
+  },
+  {
+    "serie": "A",
+    "grupo": 1,
+    "numero": 2,
+    "jugadorA": "Nicolás Montero",
+    "jugadorB": "Antonio Sivori",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "A",
+    "grupo": 1,
+    "numero": 3,
+    "jugadorA": "Antonio Irarrázaval",
+    "jugadorB": "Nicolás Montero",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "A",
+    "grupo": 1,
+    "numero": 4,
+    "jugadorA": "Pipo Ochsenius",
+    "jugadorB": "Antonio Sivori",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "A",
+    "grupo": 1,
+    "numero": 5,
+    "jugadorA": "Antonio Irarrázaval",
+    "jugadorB": "Antonio Sivori",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "A",
+    "grupo": 1,
+    "numero": 6,
+    "jugadorA": "Pipo Ochsenius",
+    "jugadorB": "Nicolás Montero",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "A",
+    "grupo": 2,
+    "numero": 1,
+    "jugadorA": "Otto Portilla",
+    "jugadorB": "Tomás Silva",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "A",
+    "grupo": 2,
+    "numero": 2,
+    "jugadorA": "José Franke",
+    "jugadorB": "Cristián San Miguel",
+    "gamesA": 3,
+    "gamesB": 9
+  },
+  {
+    "serie": "A",
+    "grupo": 2,
+    "numero": 3,
+    "jugadorA": "Otto Portilla",
+    "jugadorB": "José Franke",
+    "gamesA": 6,
+    "gamesB": 1
+  },
+  {
+    "serie": "A",
+    "grupo": 2,
+    "numero": 4,
+    "jugadorA": "Tomás Silva",
+    "jugadorB": "Cristián San Miguel",
+    "gamesA": 1,
+    "gamesB": 6
+  },
+  {
+    "serie": "A",
+    "grupo": 2,
+    "numero": 5,
+    "jugadorA": "Otto Portilla",
+    "jugadorB": "Cristián San Miguel",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "A",
+    "grupo": 2,
+    "numero": 6,
+    "jugadorA": "Tomás Silva",
+    "jugadorB": "José Franke",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "A",
+    "grupo": 3,
+    "numero": 1,
+    "jugadorA": "Enrique García-Huidobro",
+    "jugadorB": "Manuel Jiménez",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "A",
+    "grupo": 3,
+    "numero": 2,
+    "jugadorA": "Cristián Mandiola",
+    "jugadorB": "Clemente Barrios",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "A",
+    "grupo": 3,
+    "numero": 3,
+    "jugadorA": "Enrique García-Huidobro",
+    "jugadorB": "Cristián Mandiola",
+    "gamesA": 9,
+    "gamesB": 2
+  },
+  {
+    "serie": "A",
+    "grupo": 3,
+    "numero": 4,
+    "jugadorA": "Manuel Jiménez",
+    "jugadorB": "Clemente Barrios",
+    "gamesA": 9,
+    "gamesB": 7
+  },
+  {
+    "serie": "A",
+    "grupo": 3,
+    "numero": 5,
+    "jugadorA": "Enrique García-Huidobro",
+    "jugadorB": "Clemente Barrios",
+    "gamesA": 9,
+    "gamesB": 1
+  },
+  {
+    "serie": "A",
+    "grupo": 3,
+    "numero": 6,
+    "jugadorA": "Manuel Jiménez",
+    "jugadorB": "Cristián Mandiola",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "A",
+    "grupo": 4,
+    "numero": 1,
+    "jugadorA": "Matías Franke",
+    "jugadorB": "Pancho Vial",
+    "gamesA": 0,
+    "gamesB": 9
+  },
+  {
+    "serie": "A",
+    "grupo": 4,
+    "numero": 2,
+    "jugadorA": "Gianlucas Silva",
+    "jugadorB": "Nicolás Langlois",
+    "gamesA": 1,
+    "gamesB": 6
+  },
+  {
+    "serie": "A",
+    "grupo": 4,
+    "numero": 3,
+    "jugadorA": "Matías Franke",
+    "jugadorB": "Gianlucas Silva",
+    "gamesA": 10,
+    "gamesB": 9
+  },
+  {
+    "serie": "A",
+    "grupo": 4,
+    "numero": 4,
+    "jugadorA": "Pancho Vial",
+    "jugadorB": "Nicolás Langlois",
+    "gamesA": 6,
+    "gamesB": 3
+  },
+  {
+    "serie": "A",
+    "grupo": 4,
+    "numero": 5,
+    "jugadorA": "Matías Franke",
+    "jugadorB": "Nicolás Langlois",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "A",
+    "grupo": 4,
+    "numero": 6,
+    "jugadorA": "Pancho Vial",
+    "jugadorB": "Gianlucas Silva",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "B",
+    "grupo": 1,
+    "numero": 1,
+    "jugadorA": "Rafael Brito",
+    "jugadorB": "Matías Huber",
+    "gamesA": 6,
+    "gamesB": 4
+  },
+  {
+    "serie": "B",
+    "grupo": 1,
+    "numero": 2,
+    "jugadorA": "Antonio Señoret",
+    "jugadorB": "Cristóbal Stockebrand",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "B",
+    "grupo": 1,
+    "numero": 3,
+    "jugadorA": "Rafael Brito",
+    "jugadorB": "Antonio Señoret",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "B",
+    "grupo": 1,
+    "numero": 4,
+    "jugadorA": "Matías Huber",
+    "jugadorB": "Cristóbal Stockebrand",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "B",
+    "grupo": 1,
+    "numero": 5,
+    "jugadorA": "Rafael Brito",
+    "jugadorB": "Cristóbal Stockebrand",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "B",
+    "grupo": 1,
+    "numero": 6,
+    "jugadorA": "Matías Huber",
+    "jugadorB": "Antonio Señoret",
+    "gamesA": 6,
+    "gamesB": 3
+  },
+  {
+    "serie": "B",
+    "grupo": 2,
+    "numero": 1,
+    "jugadorA": "Matías Undurraga",
+    "jugadorB": "Manuel Señoret",
+    "gamesA": 6,
+    "gamesB": 2
+  },
+  {
+    "serie": "B",
+    "grupo": 2,
+    "numero": 2,
+    "jugadorA": "Santiago Bullmore",
+    "jugadorB": "Martín Bauerle",
+    "gamesA": 6,
+    "gamesB": 3
+  },
+  {
+    "serie": "B",
+    "grupo": 2,
+    "numero": 3,
+    "jugadorA": "Matías Undurraga",
+    "jugadorB": "Santiago Bullmore",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "B",
+    "grupo": 2,
+    "numero": 4,
+    "jugadorA": "Manuel Señoret",
+    "jugadorB": "Martín Bauerle",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "B",
+    "grupo": 2,
+    "numero": 5,
+    "jugadorA": "Matías Undurraga",
+    "jugadorB": "Martín Bauerle",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "B",
+    "grupo": 2,
+    "numero": 6,
+    "jugadorA": "Manuel Señoret",
+    "jugadorB": "Santiago Bullmore",
+    "gamesA": 3,
+    "gamesB": 6
+  },
+  {
+    "serie": "B",
+    "grupo": 3,
+    "numero": 1,
+    "jugadorA": "Cone Silva",
+    "jugadorB": "Martín Bustos",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "B",
+    "grupo": 3,
+    "numero": 2,
+    "jugadorA": "Vicente Boetsch",
+    "jugadorB": "Cristóbal Tebbs",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "B",
+    "grupo": 3,
+    "numero": 3,
+    "jugadorA": "Cone Silva",
+    "jugadorB": "Vicente Boetsch",
+    "gamesA": 9,
+    "gamesB": 3
+  },
+  {
+    "serie": "B",
+    "grupo": 3,
+    "numero": 4,
+    "jugadorA": "Martín Bustos",
+    "jugadorB": "Cristóbal Tebbs",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "B",
+    "grupo": 3,
+    "numero": 5,
+    "jugadorA": "Cone Silva",
+    "jugadorB": "Cristóbal Tebbs",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "B",
+    "grupo": 3,
+    "numero": 6,
+    "jugadorA": "Martín Bustos",
+    "jugadorB": "Vicente Boetsch",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "B",
+    "grupo": 4,
+    "numero": 1,
+    "jugadorA": "Nicolás Tagle",
+    "jugadorB": "Agustín Bustos",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "B",
+    "grupo": 4,
+    "numero": 2,
+    "jugadorA": "Arturo Erlwein",
+    "jugadorB": "Camilo Lozano",
+    "gamesA": 9,
+    "gamesB": 3
+  },
+  {
+    "serie": "B",
+    "grupo": 4,
+    "numero": 3,
+    "jugadorA": "Nicolás Tagle",
+    "jugadorB": "Arturo Erlwein",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "B",
+    "grupo": 4,
+    "numero": 4,
+    "jugadorA": "Agustín Bustos",
+    "jugadorB": "Camilo Lozano",
+    "gamesA": 9,
+    "gamesB": 0
+  },
+  {
+    "serie": "B",
+    "grupo": 4,
+    "numero": 5,
+    "jugadorA": "Nicolás Tagle",
+    "jugadorB": "Camilo Lozano",
+    "gamesA": null,
+    "gamesB": null
+  },
+  {
+    "serie": "B",
+    "grupo": 4,
+    "numero": 6,
+    "jugadorA": "Agustín Bustos",
+    "jugadorB": "Arturo Erlwein",
+    "gamesA": 6,
+    "gamesB": 2
+  }
+]
